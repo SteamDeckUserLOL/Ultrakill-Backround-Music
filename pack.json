@@ -1,0 +1,11 @@
+{
+  "name": "Ultrakill Backround Music",
+  "name": "Ultrakill Backround Music",
+  "description": "Some nice ultrakill backround music for you're deck!",
+  "author": "SteamDeckUserLOL",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
